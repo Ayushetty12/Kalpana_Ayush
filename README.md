@@ -16,7 +16,7 @@ How It Works: The Arduino controls multiple 7-segment displays through multiplex
 
 Skills Learned: Multiplexing displays, digital output control, number-to-segment mapping, and basic loop logic in Arduino programming.
 
-https://www.tinkercad.com/things/fk4llu6eg1K-7-segment-
+https://www.tinkercad.com/things/c8oX68teLzy-7-seg-display
 
 2. Servo Motor Sweep: 0 to X Degrees and Back (Tinkercad)
 Objective: Move a servo motor smoothly from 0 degrees to a specified angle (X) and back to 0, repeating this cycle.
